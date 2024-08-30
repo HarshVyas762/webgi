@@ -61,6 +61,10 @@ body {
   z-index: 2;
 }
 
+.first{
+  margin-top: 100px;
+}
+
 .first h1{
   font-size: 10rem;
   line-height: 8rem;
